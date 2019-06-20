@@ -9,8 +9,7 @@ Zaproponuj rozwiązanie spełniające poniższe wymagania:
    * Przygotuj dokumentację powyższej architektury w formie graficznej w programie ``DIA``  
    
    
-Roz
------------
+
 
 Podział 
 -------------
@@ -24,7 +23,7 @@ PC0
 ---
 |  interfejs   | adres  |
 |:-------------| :------| 
-| eth0 | zapewnia usługodawca |
+| eth0 | zapewnia dostawca |
 | eth1 | 172.22.160.1/23  |
 | eth2 | 172.22.128.1/19  |
 
